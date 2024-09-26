@@ -3,6 +3,8 @@
 void Operation(int nb1, int nb2, char Op)
 {
     switch (Op)
+
+    
     {
     case '+':
         printf("%d + %d = %d \n", nb1, nb2, nb1+nb2);
